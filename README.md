@@ -1,16 +1,61 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Perfil do Luiz</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f0f0;
+      text-align: center;
+      margin: 0;
+      padding: 0;
+    }
 
-<!--
-**luizhenriqbs/luizhenriqbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    header {
+      background-color: #d63031;
+      color: white;
+      padding: 20px;
+    }
 
-Here are some ideas to get you started:
+    section {
+      margin: 30px auto;
+      max-width: 600px;
+      background-color: white;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    footer {
+      margin-top: 30px;
+      padding: 10px;
+      font-size: 14px;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Olá, eu sou o Luiz!</h1>
+  </header>
+
+  <section>
+    <h2>Sobre mim</h2>
+    <p>Sou estudante de Ciência da Computação, estou no primeiro período.</p>
+
+    <h2>Hobbies</h2>
+    <ul>
+      <li>Jogar videogame</li>
+      <li>Programar</li>
+      <li>Ouvir música</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>Contato: luizhenriquebs517@gmail.com</p>
+  </footer>
+
+</body>
+</html>
