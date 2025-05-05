@@ -1,61 +1,31 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8">
-  <title>Perfil do Luiz</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f0f0f0;
-      text-align: center;
-      margin: 0;
-      padding: 0;
-    }
+<h2 align="left">Hi 👋! My name is Luiz  and I'm a desenvolvedor iniciante</h2>
 
-    header {
-      background-color: #d63031;
-      color: white;
-      padding: 20px;
-    }
+###
 
-    section {
-      margin: 30px auto;
-      max-width: 600px;
-      background-color: white;
-      padding: 20px;
-      border-radius: 8px;
-      box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    }
+<img align="right" height="150" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif"  />
 
-    footer {
-      margin-top: 30px;
-      padding: 10px;
-      font-size: 14px;
-      color: #555;
-    }
-  </style>
-</head>
-<body>
+###
 
-  <header>
-    <h1>Olá, eu sou o Luiz!</h1>
-  </header>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+</div>
 
-  <section>
-    <h2>Sobre mim</h2>
-    <p>Sou estudante de Ciência da Computação, estou no primeiro período.</p>
+###
 
-    <h2>Hobbies</h2>
-    <ul>
-      <li>Jogar videogame</li>
-      <li>Programar</li>
-      <li>Ouvir música</li>
-    </ul>
-  </section>
+<div align="left">
+  <a href="l_.henriquebs" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="luizhenriquebs517@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="www.linkedin.com/in/luiz-henrique-8979782a6" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-  <footer>
-    <p>Contato: luizhenriquebs517@gmail.com</p>
-  </footer>
-
-</body>
-</html>
+###
